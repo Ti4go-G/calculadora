@@ -24,6 +24,9 @@ body {
   background: #fff;
   padding: 20px;
   border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 form input, form label, form button {
@@ -90,3 +93,4 @@ form button:hover {
 .btn-eq, .btn-del, .btn-clear:hover{
   background-color: rgb(0, 110, 255);
 }
+
